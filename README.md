@@ -1,3 +1,3 @@
-# PythonApps
+# Python Apps
 
-Modifying the read me file
+The purpose of this repository is to document my journey through learning Python. I am also learning to use git through the Git Terminal to be familiar with the widly use VCS that is GitHub. This repository will contain things from exercises and workthroughs of books, or little personal projects. The main purpose of this repository and the experience is to challenge myself to learn Python and to challenge myself by learning to use Git. 
