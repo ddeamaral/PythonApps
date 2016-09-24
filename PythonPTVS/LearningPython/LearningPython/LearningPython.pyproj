@@ -5,7 +5,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>9be87f54-0273-46ee-adbb-8448d63ff0de</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>Chapter2.py</StartupFile>
+    <StartupFile>Chapter3.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
