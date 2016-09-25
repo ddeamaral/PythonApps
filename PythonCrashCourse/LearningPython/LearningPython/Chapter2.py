@@ -49,7 +49,7 @@ FloatMultiply2 = 2 * .02
 #Beware that Python like most other languages has to store numbers to be as precise as possible due to the way numbers are stored
 print(0.2 + 0.1)
 print(3 * 0.1)
-
+print(Sum)
 #Avoid type errors with the str() function
 age = 23
 message = "Happy " + str( age ) + "rd Birthday!"
@@ -80,4 +80,3 @@ message = "Happy " + str( age ) + "rd Birthday!"
 # throughout this book to help explain sections of code.
 
 import this # This will output the basic rules of Python that you should try to follow.
- 
