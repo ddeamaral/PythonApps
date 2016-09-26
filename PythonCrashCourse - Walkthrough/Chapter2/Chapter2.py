@@ -1,4 +1,7 @@
-﻿#Workthrough the book of Python Crash Course Chapter 2 By Eric Matthes
+﻿#	Walkthrough of "Python Crash Course" by Eric Matthes
+#	Iteration by Dylan DeAmaral
+#	Chapter 2 (Chapter 1 was mostly python setup)
+
 
 ############### String Variables ##########################
 

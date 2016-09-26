@@ -1,4 +1,8 @@
-######## Chapter 4: WorkIng wIth lIsts ########
+#	Walkthrough of "Python Crash Course" by Eric Matthes
+#	Iteration by Dylan DeAmaral
+#	Chapter 4
+
+######## Chapter 4 of walkthrough: Working wIth lists ########
 
 # We created a list of magicians to loop through and demonstrate a loop to execute instructions on each element of the list
 magicians = ['alive', 'david', 'carolina','penn', 'teller'] 

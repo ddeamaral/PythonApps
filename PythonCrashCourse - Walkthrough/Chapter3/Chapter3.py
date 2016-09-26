@@ -1,4 +1,6 @@
-﻿#this is a display of Chapter 3 Lists of Python crash Course by Eric Matthes
+﻿#	Walkthrough of "Python Crash Course" by Eric Matthes
+#	Iteration by Dylan DeAmaral
+#	Chapter 3
 
 # Important information from the book
 # "what Is a list? A list is a collection of items in a particular order. You can make a list that includes the letters of the alphabet, 
